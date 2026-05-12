@@ -1,6 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=About+me%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&width=435&lines=About+me%3A)](https://git.io/typing-svg)
 
-Master's graduate in Data Science with a Bachelor of Science in Computing and Software Systems from The University of Melbourne. Currently teaching at at RMIT University based in Melbourne, Australia, with interests in applied machine learning, software development, cloud technologies, and data-driven applications.<br><br>Experience includes Python, Java, SQL, AWS, Power BI, Flask, React, Next.js, and TypeScript. Recent work includes AWS-backed applications using services such as EC2, S3, DynamoDB, Lambda, and API Gateway.<br><br>Main interests include machine learning, cloud computing, software engineering, data analytics, and building practical systems that solve useful problems.<br><br>Alongside my technical work, I have a strong interest in financial markets, long-term investing, and data-driven decision-making. I actively manage my own investment portfolio and have personally traded over $1M in cumulative transaction value, giving me practical exposure to market analysis, risk management, and portfolio decision-making.
+> [!IMPORTANT]
+> - Master's graduate in Data Science with a Bachelor of Science in Computing and Software Systems from The University of Melbourne.
+> - Currently teaching at RMIT University, based in Melbourne, Australia.
+> - Interested in machine learning, software development, cloud technologies, and data-driven applications.
+> - Recent work includes AWS-backed applications using EC2, S3, DynamoDB, Lambda, and API Gateway.
+> - Building experience across Python, Java, SQL, AWS, Power BI, Flask, React, Next.js, and TypeScript.
+> - Interested in financial markets, long-term investing, portfolio analysis, and data-driven decision-making.
 
 
 ## 🌐 Socials:
