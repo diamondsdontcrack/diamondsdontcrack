@@ -1,3 +1,5 @@
+![GitHub Banner](assets/github-header-banner.png)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&width=435&lines=About+me%3A)](https://git.io/typing-svg)
 
 > [!IMPORTANT]
@@ -57,7 +59,4 @@
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=diamondsdontcrack&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=diamondsdontcrack&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=diamondsdontcrack&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
