@@ -4,7 +4,7 @@
 
 > [!IMPORTANT]
 > - Master's graduate in Data Science with a Bachelor of Science in Computing and Software Systems from The University of Melbourne.
-> - Currently teaching at RMIT University, based in Melbourne, Australia.
+> - Teacher at RMIT University, Melbourne, Australia.
 > - Building practical systems across machine learning, cloud infrastructure, full-stack development, and data analytics.
 > - Recent work includes AWS-backed applications using EC2, S3, DynamoDB, Lambda, and API Gateway.
 > - Experienced with Python, Java, SQL, AWS, Power BI, Flask, React, Next.js, and TypeScript.
